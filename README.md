@@ -22,16 +22,16 @@ Pet Care Log & Medication Reminder lets you:
 
 | Feature | Description |
 |---|---|
-| 🐾 Pet Profile | Store and edit pet info persistently in SQLite |
-| ⚡ Quick Actions | One-click logging for Feeding, Walking, Medication |
-| ⏱️ Last Done Timers | Auto-updating relative timestamps ("Just now", "2 hours ago") |
-| 📅 Daily Timeline | Chronological activity view reset at midnight |
-| 💊 Medication Schedules | Full CRUD with date range, reminder time, dosage |
-| 🔔 Smart Reminders | Checks every 10s and shows in-app + browser notifications |
-| 🕐 Snooze | Snooze any reminder for 5 minutes |
-| ✅ Mark as Given | Records medication log + activity, dismisses alert |
-| 📋 History | Filter by date/type; exportable text for vets |
-| 🗄️ SQLite Storage | All data is persistent — no in-memory dummy arrays |
+|  Pet Profile | Store and edit pet info persistently in SQLite |
+|  Quick Actions | One-click logging for Feeding, Walking, Medication |
+|  Last Done Timers | Auto-updating relative timestamps ("Just now", "2 hours ago") |
+|  Daily Timeline | Chronological activity view reset at midnight |
+|  Medication Schedules | Full CRUD with date range, reminder time, dosage |
+|  Smart Reminders | Checks every 10s and shows in-app + browser notifications |
+|  Snooze | Snooze any reminder for 5 minutes |
+|  Mark as Given | Records medication log + activity, dismisses alert |
+|  History | Filter by date/type; exportable text for vets |
+|  SQLite Storage | All data is persistent — no in-memory dummy arrays |
 
 ---
 
